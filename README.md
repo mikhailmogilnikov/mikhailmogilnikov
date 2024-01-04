@@ -1,4 +1,4 @@
-## Hello, I'm Mikhail Mogilnikov
+## Mikhail Mogilnikov
 
 ### Frontend developer & Product designer
 
