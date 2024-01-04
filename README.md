@@ -5,15 +5,14 @@
 I've been started with basic CSS in 2022, when I wanted to add my own styles to a page made in a website builder. Now I create full-fledged web systems using advanced frameworks.
 
 * Located in Moscow, Russia
-* Languages: English, Russian
 * Contact: [mikhail.mogilnikov02@gmail.com](mailto:mikhail.mogilnikov02@gmail.com) or [Telegram](https://t.me/mikhailmogilnikov)
 * Currently working on [Urban Guard](http://urbanguard.vercel.app)
 
 ### Technologies
 
-**Frontend:** HTML, CSS, JavaScript, React, Next.js (App Router), Tailwind CSS, SCSS, NextUI, Framer Motion, React Three Fiber & Drei
+**Frontend:** HTML, CSS, JavaScript, React, Next.js (App Router), Tailwind CSS, SCSS, i18next, NextUI, Framer Motion, React Three Fiber & Drei
 
-**Additional:** Git, Bash, Jest, ESLint, Prettier, MacOS
+**Additional:** Git, Bash, Jest, ESLint, Prettier
 
 **Design**: Adobe Photoshop & Illustrator, Figma, Framer
 
