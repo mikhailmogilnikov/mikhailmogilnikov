@@ -11,7 +11,9 @@ I've been started with basic CSS in 2022, when I wanted to add my own styles to 
 ### Technologies
 
 **Frontend:** HTML, CSS, JavaScript, React, Next.js (App Router), Tailwind CSS, SCSS, NextUI, Framer Motion, React Three Fiber & Drei
+
 **Additional:** Git, Bash, Jest, ESLint, Prettier
+
 **Design**: Adobe Photoshop & Illustrator, Figma, Framer
 
 ### GitHub Stats
