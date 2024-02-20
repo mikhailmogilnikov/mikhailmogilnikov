@@ -6,11 +6,11 @@ I've been started with basic CSS in 2022, when I wanted to add my own styles to 
 
 * Located in Moscow, Russia
 * Contact: [mikhail.mogilnikov02@gmail.com](mailto:mikhail.mogilnikov02@gmail.com) or [Telegram](https://t.me/mikhailmogilnikov)
-* Currently working on [Urban Guard](http://urbanguard.vercel.app)
+* Currently working on [Property Complex](http://property-complex.vercel.app)
 
 ### Technologies
 
-**Frontend:** HTML, CSS, JavaScript, React, Next.js (App Router), Tailwind CSS, SCSS, i18next, NextUI, Framer Motion, React Three Fiber & Drei
+**Frontend:** HTML, CSS, JavaScript, React, Next.js (App Router), Redux Toolkit, MobX, Tailwind CSS, SCSS, i18next, NextUI, Bootstrap, Framer Motion, React Three Fiber & Drei
 
 **Additional:** Git, Bash, Jest, ESLint, Prettier
 
