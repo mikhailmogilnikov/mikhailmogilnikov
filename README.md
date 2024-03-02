@@ -12,7 +12,7 @@ I've been started with basic CSS in 2022, when I wanted to add my own styles to 
 
 **Frontend:** HTML, CSS, JavaScript, React, Next.js (App Router), Redux Toolkit, RTK Query, MobX, Tailwind CSS, SCSS, Styled Components, i18next, NextUI, Bootstrap, Framer Motion, React Three Fiber & Drei
 
-**Additional:** Git, Bash, Jest, ESLint, Prettier
+**Additional:** Git, Bash, REST API, Jest, ESLint, Prettier
 
 **Design**: Adobe Photoshop & Illustrator, Figma, Framer
 
