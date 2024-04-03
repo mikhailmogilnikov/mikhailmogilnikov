@@ -6,11 +6,11 @@ I've been started with basic CSS in 2022, when I wanted to add my own styles to 
 
 * Located in Moscow, Russia
 * Contact: [mikhail.mogilnikov02@gmail.com](mailto:mikhail.mogilnikov02@gmail.com) or [Telegram](https://t.me/mikhailmogilnikov)
-* Currently working on [Property Complex](http://property-complex.vercel.app)
+* Currently working on [Albomoni](http://albomoni.vercel.app)
 
 ### Technologies
 
-**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js (App Router), Redux Toolkit, RTK Query, Tanstack Query, MobX, Tailwind CSS, CSS Modules, SCSS, Styled Components, i18next, NextUI, Bootstrap, Framer Motion, React Three Fiber & Drei
+**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js (App Router), Redux Toolkit, RTK Query, Tanstack Query, MobX, Tailwind CSS, CSS Modules, SCSS, Styled Components, i18next, NextUI, Bootstrap, Framer Motion, React Three Fiber & Drei, Feature Sliced Design (FSD)
 
 **Additional:** Git, Bash, REST API, Jest, ESLint, Prettier
 
