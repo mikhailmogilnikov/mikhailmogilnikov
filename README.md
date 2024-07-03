@@ -8,7 +8,7 @@ I've been started with basic CSS in 2022, when I wanted to add my own styles to 
 
 * Located in Moscow, Russia
 * Contact: [mikhail.mogilnikov02@gmail.com](mailto:mikhail.mogilnikov02@gmail.com) or [Telegram](https://t.me/mikhailmogilnikov)
-* Currently working on [Albomoni](http://albomoni.vercel.app)
+* Currently working on [Ansara ERP](https://ansara-erp.vercel.app)
 
 ### Technologies
 
